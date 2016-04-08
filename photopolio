@@ -1,0 +1,74 @@
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+      div.introduce{
+          background-color:white;
+          color:black;
+          margin:20px;
+          padding:20px;
+      }
+        body {background-color: yellowgreen}
+        #header {
+            background-color:lightyellow;
+            color:black;
+            text-align:center;
+            padding:5px;
+        }
+        #nav {
+            line-height:30px;
+            background-color:lightyellow;
+            height:1000px;
+            width:100px;
+            float:left;
+            padding:1px;
+        }
+        #section {
+            width:350px;
+            float:left;
+            padding:10px;
+
+        }
+        #footer {
+            background-color:black;
+            color:white;
+            clear:both;
+            text-align:center;
+            padding:5px;
+        }
+    </style>
+</head>
+<body>
+
+<div id="header">
+    <h1>SANG <span style="color: darkgreen"> WON'S </span> STORY</h1>
+</div>
+<div class="introduce">
+<h1 style="text-align: center">약력</h1>
+    <p>
+        1993년 2월 6일 2남 1녀 중 막내로 태어남<br>
+        1999년 3월      용호초등학교 입학<br>
+        2005년 2월      용호초등학교 졸업<br>
+        2005년 3월      용호중학교   입학<br>
+        2008년 2월      용호중학교   졸업<br>
+        2008년 3월      흥진고등학교  입학<br>
+        2011년 2월      흥진고등학교  졸업<br>
+        2011년 3월      한성대학교    입학<br>
+        2012년 9월      한성대학교    휴학<br>
+        2013년 3월      해양경찰 전투경찰순경 입대<br>
+        2015년 2월      해양경찰 전투경찰순경 전역<br>
+        2015년 3월      WORLD JNK G.X SPINNING 강사<br>
+        2015년 9월      한성대학교  복학
+    </p>
+</div>
+<div class="introduce">
+    <h1 style="text-align: center">자격증</h1>
+    1종보통면허<br>
+    해기사6급<br>
+    합기도2단<br>
+    태권도2단<br>
+    동력수상레저조종면허2종<br>
+    </div>
+
+</body>
+</html>
